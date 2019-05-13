@@ -1,0 +1,17 @@
+{
+  "categories": [
+    { "title": "Positivity", "imageUrl": "https://images.unsplash.com/photo-1418995231169-b6d53c7cdbac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1800&q=80", "quantity: : "13 Walltips" },
+    { "title": "Travel", "imageUrl": "https://images.unsplash.com/photo-1418995231169-b6d53c7cdbac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1800&q=80", "quantity: : "13 Walltips" },
+    { "title": "Inspiration", "imageUrl": "https://images.unsplash.com/photo-1418995231169-b6d53c7cdbac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1800&q=80", "quantity: : "13 Walltips" },
+    { "title": "Lifestyle", "imageUrl": "https://images.unsplash.com/photo-1418995231169-b6d53c7cdbac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1800&q=80", "quantity: : "13 Walltips" },
+    { "title": "Relations", "imageUrl": "https://images.unsplash.com/photo-1418995231169-b6d53c7cdbac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1800&q=80", "quantity: : "13 Walltips" },
+    { "title": "Health", "imageUrl": "https://images.unsplash.com/photo-1418995231169-b6d53c7cdbac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1800&q=80", "quantity: : "13 Walltips" },
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
